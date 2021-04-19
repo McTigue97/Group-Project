@@ -10143,3 +10143,14 @@ header.masthead h1 {
 .wrapper {
     text-align: center;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#foot{
+	background-color: #f0ead6;
+}
